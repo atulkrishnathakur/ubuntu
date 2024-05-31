@@ -24,9 +24,9 @@ check the url for more: https://www.guru99.com/the-vi-editor.html
 ```
 :/var/www/fprofile$ rm -r ./*
 ```
-Note: It does not delete hidden files
-. – The current directory indicated by a single dot.
-.. – The parent directory indicated by two successive dots.
+-Note1: It does not delete hidden files
+-Note2: . – The current directory indicated by a single dot.
+-Note3: .. – The parent directory indicated by two successive dots.
 
 
 # delete all hidden files
