@@ -25,4 +25,11 @@ check the url for more: https://www.guru99.com/the-vi-editor.html
 :/var/www/fprofile$ rm -r ./*
 ```
 Note: It does not delete hidden files
+. – The current directory indicated by a single dot.
+.. – The parent directory indicated by two successive dots.
 
+
+# delete all hidden files
+```
+:/var/www/fprofile$ rm -r ./.*
+```
