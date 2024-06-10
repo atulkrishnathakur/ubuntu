@@ -33,3 +33,13 @@ check the url for more: https://www.guru99.com/the-vi-editor.html
 ```
 :/var/www/fprofile$ rm -r ./.*
 ```
+
+# switch to root user
+```
+$ sudo su -
+```
+
+# switch to normal user
+```
+$ sudo su atul
+```
